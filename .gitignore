@@ -57,3 +57,7 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# other files
+work_area.py
+temp.py
